@@ -14,8 +14,9 @@ const style = {
 
 export default function Footer() {
     return (
-      <div>
-        <div style={style}>hello</div>
+      <div style={style}>
+        <a href='https://github.com/jooreea' className = "m-3" target="blank">github</a>
+        <a href='https://www.linkedin.com/in/jooree-ahn-289382212/' className = "m-3" target="blank">linkedin</a>
       </div>
     );
   }
