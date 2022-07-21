@@ -2,7 +2,7 @@ import React from 'react';
 
 // TODO: Add a comment explaining how we are able to extract the key value pairs from props
 
-function NavTabs({ currentPage, handlePageChange }) {
+function Navigation({ currentPage, handlePageChange }) {
   return (
     <div className="row">
          <div className="col-md-2"> 
@@ -60,4 +60,4 @@ function NavTabs({ currentPage, handlePageChange }) {
   );
 }
 
-export default NavTabs;
+export default Navigation;

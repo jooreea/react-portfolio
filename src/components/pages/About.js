@@ -1,8 +1,11 @@
 import React from 'react';
 
+import Me from '../images/jooree_ahn.jpeg';
+
 export default function About() {
   return (
     <div className='m-3 text-center'>
+      <img src={Me} className="me" alt="..."/>
       <h2>Web Developer</h2>
       <p className='m-5'>
       Full-stack web developer uniquely positioned to provide perspectives on how end users interact with data and web-based analytical tools by 
