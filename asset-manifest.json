@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5a28c6d9.css",
+    "main.js": "/react-portfolio/static/js/main.2ae3f518.js",
+    "static/media/Jooree_Ahn_Resume.pdf": "/react-portfolio/static/media/Jooree_Ahn_Resume.39c04cc41d1615184975.pdf",
+    "static/media/image_2.jpeg": "/react-portfolio/static/media/image_2.3e1b11c5e9aea13af7d0.jpeg",
+    "static/media/image_3.jpeg": "/react-portfolio/static/media/image_3.d191e25c9e470ffe0622.jpeg",
+    "static/media/image_1.jpeg": "/react-portfolio/static/media/image_1.a31dcaed1f7986470455.jpeg",
+    "static/media/image_4.jpeg": "/react-portfolio/static/media/image_4.cb6636310c6d8215725d.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.5a28c6d9.css.map": "/react-portfolio/static/css/main.5a28c6d9.css.map",
+    "main.2ae3f518.js.map": "/react-portfolio/static/js/main.2ae3f518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a28c6d9.css",
+    "static/js/main.2ae3f518.js"
+  ]
+}
